@@ -12,3 +12,13 @@ Output should look like:
 console.log(a); // => 20
 
 console.log(b); // => 10
+# Exercise 2
+Calculate the area and circumference of a circle where radius is equal to 10.
+
+let r = 10;
+
+Output should look like:
+
+console.log(circleCircum); // => 62.8
+
+console.log(circleArea); // => 314
