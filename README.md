@@ -19,6 +19,8 @@ let r = 10;
 
 Output should look like:
 
+Print a label before each result i.e area of circle , circumference of circle
+
 console.log(circleCircum); // => 62.8
 
 console.log(circleArea); // => 314
