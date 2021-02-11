@@ -56,7 +56,7 @@ Second Task:</br>
    **</br>
     *</br>
 Third Task:</br>
-    &nbsp;*</br>
+   *</br>
    **</br>
   ***</br>
  ****</br>
