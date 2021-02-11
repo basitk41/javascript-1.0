@@ -34,8 +34,10 @@ multi line comments
 //     console.log(a);
 //     if(true){
 //         let b=2;
+//         var c=3;
 //     }
 //     console.log(b);
+//     console.log(c);
 
 // }
 // hi();
