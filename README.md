@@ -36,12 +36,29 @@ I want you to create a function called countTruthy(array) which takes an array a
 # Exercise 9
 Here is another simple but great exercise, your job is to create a function called show properties. We pass an object here. And this function should display all the properties of this object that are of type string.
 # Exercise 10
-Here's another
-
-2
-00:00:04.000 --> 00:00:08.000
-simple but great exercise that trains your programming brain. So I want you to create this function called sum(limit), we give it a limit and this function will return the sum of all the multiples of 3 and 5 from 0 up to this limit. Here's an example. What are the multiples of 3 and 5, between 0 and 10. Well, multiples of 3, are 3, 6, and 9 and multiples of 5 are 5 and 10, so I'm including this number that is passed as a limit. Now if you add these numbers together, the result will be 33, and that is the trouble of this function
-
-
-
-
+Here's another simple but great exercise that trains your programming brain. So I want you to create this function called sum(limit), we give it a limit and this function will return the sum of all the multiples of 3 and 5 from 0 up to this limit. Here's an example. What are the multiples of 3 and 5, between 0 and 10. Well, multiples of 3, are 3, 6, and 9 and multiples of 5 are 5 and 10, so I'm including this number that is passed as a limit. Now if you add these numbers together, the result will be 33, and that is the trouble of this function
+# Exercise 11
+we want to calculate the grade of a student. So here, are the marks of a student in different subjects, let marks=[80,80,50], we pass this array with this function, calculateGrade(marks), what this function does, is first it calculates the average grade. So what is the average here, 80 plus 80 plus 50, that comes to 210 divided by 3, so the average is 70. Now here we need a table to see what grade this average corresponds to. So if the average comes down to this range 1 to 59, the grade should be F, if it is between 60 and 69, that should be D, if it's between 70 and 79, that should be a C. If it's between 8- and 89, that should be a B. And finally if it's between 90 and 100, that should be an A
+# Exercise 12
+This exercise is a very popular exercise for junior programmers.
+use loops to print like that below output:
+First Task:
+*
+**
+***
+****
+*****
+Second Task:
+*****
+ ****
+  ***
+   **
+    *
+Third Task:
+    *
+   **
+  ***
+ ****
+*****
+# Exercise 13
+I want you to create this function, showPrimes, that takes a limit, and shows all the prime numbers up to this limit. So here are the prime numbers that we have, up to 20, we got 2, 3, 5, 7 and so on.
