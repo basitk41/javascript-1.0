@@ -58,4 +58,4 @@ Second Task:</br>
     *</br>
     
 # Exercise 13
-I want you to create this function, showPrimes, that takes a limit, and shows all the prime numbers up to this limit. So here are the prime numbers that we have, up to 20, we got 2, 3, 5, 7 and so on.
+I want you to create this function, showPrimes(limit), that takes a limit, and shows all the prime numbers up to this limit. So here are the prime numbers that we have, up to 20, we got 2, 3, 5, 7 and so on.
