@@ -30,7 +30,7 @@ Now in this program, I'm assuming that speed limit is 70 km an hour. So if a car
  functions in JavaScript that is Math.floor. We can give this function a floating point number, like 1.3, let's say 1.3 points, and this will convert that to the greatest integer, for example if we go to the console here, and type math.floor of 1.3, we get 1. So you will have to use this function as part of your calculations okay, now here is a tip for you. Back to our checkSpeed function, what if you passed 80 here? We should get 2 points right? So we get 2 points, beautiful. Now what if we drive at 180 km an hour? Our license is suspended. So if a driver gets more than 12 points, then their license should be suspended.
 
 # Exercise 7
- I want you to write a function called show numbers that takes a parameter called limit. So we pass a number here, like 10, and when we call this function, we should call all the numbers from 0 to the number we supplied as the limit. Now next to each number if that number is even we should display the even number, otherwise we should display odd.
+ I want you to write a function called showNumbers(limit) that takes a parameter called limit. So we pass a number here, like 10, and when we call this function, we should call all the numbers from 0 to the number we supplied as the limit. Now next to each number if that number is even we should display the even number, otherwise we should display odd.
 
 
 
