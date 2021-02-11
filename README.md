@@ -31,7 +31,8 @@ Now in this program, I'm assuming that speed limit is 70 km an hour. So if a car
 
 # Exercise 7
  I want you to write a function called showNumbers(limit) that takes a parameter called limit. So we pass a number here, like 10, and when we call this function, we should call all the numbers from 0 to the number we supplied as the limit. Now next to each number if that number is even we should display the even number, otherwise we should display odd.
-
+# Exercise 8
+I want you to create a function called countTruthy(array) which takes an array and returns a number of truthy elements in this array. Now what are these truthy or false values, We studied about it earlier.
 
 
 
