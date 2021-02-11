@@ -56,10 +56,10 @@ Second Task:</br>
    **</br>
     *</br>
 Third Task:</br>
-   *</br>
-   **</br>
-  ***</br>
- ****</br>
+   ____*</br>
+   ___**</br>
+  __***</br>
+ _****</br>
 *****</br>
 # Exercise 13
 I want you to create this function, showPrimes, that takes a limit, and shows all the prime numbers up to this limit. So here are the prime numbers that we have, up to 20, we got 2, 3, 5, 7 and so on.
