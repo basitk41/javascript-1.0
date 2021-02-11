@@ -44,6 +44,7 @@ we want to calculate the grade of a student. So here, are the marks of a student
 This exercise is a very popular exercise for junior programmers. </br>
 use loops to print like that below output:</br>
 First Task:</br>
+
 *</br>
 **</br>
 ***</br>
@@ -55,11 +56,6 @@ Second Task:</br>
   ***</br>
    **</br>
     *</br>
-Third Task:</br>
-   ____*</br>
-   ___**</br>
-  __***</br>
- _****</br>
-*****</br>
+    
 # Exercise 13
 I want you to create this function, showPrimes, that takes a limit, and shows all the prime numbers up to this limit. So here are the prime numbers that we have, up to 20, we got 2, 3, 5, 7 and so on.
