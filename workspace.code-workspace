@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../js-training-2"
+	},
+	{
+		"path": "../../../../Volumes/my files/React Projects/customhooks"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Javascript-1.0"
+  }
+}
