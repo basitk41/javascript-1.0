@@ -1,5 +1,6 @@
 # Javascript-1.0
 This is the very basic course of Javascript in which I covered almost all topics that are important to know for being a Javascript developer.
+# Exercises:
 # Exercise 1
 Swapping variable's values:</br>
 let a=10;</br>
@@ -40,25 +41,25 @@ Here's another simple but great exercise that trains your programming brain. So 
 # Exercise 11
 we want to calculate the grade of a student. So here, are the marks of a student in different subjects, let marks=[80,80,50], we pass this array with this function, calculateGrade(marks), what this function does, is first it calculates the average grade. So what is the average here, 80 plus 80 plus 50, that comes to 210 divided by 3, so the average is 70. Now here we need a table to see what grade this average corresponds to. So if the average comes down to this range 1 to 59, the grade should be F, if it is between 60 and 69, that should be D, if it's between 70 and 79, that should be a C. If it's between 8- and 89, that should be a B. And finally if it's between 90 and 100, that should be an A
 # Exercise 12
-This exercise is a very popular exercise for junior programmers.
-use loops to print like that below output:
-First Task:
-*
-**
-***
-****
-*****
-Second Task:
-*****
- ****
-  ***
-   **
-    *
-Third Task:
-    *
-   **
-  ***
- ****
-*****
+This exercise is a very popular exercise for junior programmers. </br>
+use loops to print like that below output:</br>
+First Task:</br>
+*</br>
+**</br>
+***</br>
+****</br>
+*****</br>
+Second Task:</br>
+*****</br>
+ ****</br>
+  ***</br>
+   **</br>
+    *</br>
+Third Task:</br>
+    *</br>
+   **</br>
+  ***</br>
+ ****</br>
+*****</br>
 # Exercise 13
 I want you to create this function, showPrimes, that takes a limit, and shows all the prime numbers up to this limit. So here are the prime numbers that we have, up to 20, we got 2, 3, 5, 7 and so on.
