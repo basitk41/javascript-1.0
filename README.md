@@ -17,4 +17,10 @@ console.log(circleArea); // => 314 </br>
 # Exercise 3
 Write a function that takes two numbers and return the maximum of the two.
 # Exercise 4
-
+Write function isLandscape(width,height) which take width and height, return true if Landscape else false.
+# Exercise 5
+fizzbuzz algorithm: </br>
+write a function fizzbuzz(input), which take an input, if the number is divisable by 3 return string 'fizz',</br>
+if the number is divisable by 5 return string 'buzz', if divisable by both 3 and 5 then return string 'fizzbuzz',</br>
+if input is not a number return string 'Not a number'.</br>
+Finally if input is number but not divisable by both simply return that number.
