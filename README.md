@@ -33,9 +33,14 @@ Now in this program, I'm assuming that speed limit is 70 km an hour. So if a car
  I want you to write a function called showNumbers(limit) that takes a parameter called limit. So we pass a number here, like 10, and when we call this function, we should call all the numbers from 0 to the number we supplied as the limit. Now next to each number if that number is even we should display the even number, otherwise we should display odd.
 # Exercise 8
 I want you to create a function called countTruthy(array) which takes an array and returns a number of truthy elements in this array. Now what are these truthy or false values, We studied about it earlier.
+# Exercise 9
+Here is another simple but great exercise, your job is to create a function called show properties. We pass an object here. And this function should display all the properties of this object that are of type string.
+# Exercise 10
+Here's another
 
-
-
+2
+00:00:04.000 --> 00:00:08.000
+simple but great exercise that trains your programming brain. So I want you to create this function called sum(limit), we give it a limit and this function will return the sum of all the multiples of 3 and 5 from 0 up to this limit. Here's an example. What are the multiples of 3 and 5, between 0 and 10. Well, multiples of 3, are 3, 6, and 9 and multiples of 5 are 5 and 10, so I'm including this number that is passed as a limit. Now if you add these numbers together, the result will be 33, and that is the trouble of this function
 
 
 
