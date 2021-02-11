@@ -1,21 +1,24 @@
-// printing Hello world.(console.log + alert + write + getElementById/Tag) (browser, node).
+// printing Hi.(console.log + alert + write + getElementById/Tag) (browser, node)......
 // console.log('Hi');
 // alert('Hi');
 // document.write('Hi');
+// let element = document.getElementById('root');
+// element.innerHTML = 'Hi';
+// for node type commond node filename.js and enter
 
-//Comments(// ,/**/).
+//Comments(// ,/**/)........
 // signle line comment
 /*
 multi line comments
 */
 
-// case-sensitive(let a, let A).
+// case-sensitive(let a, let A)........
 // let a=10;
 // let A=20;
 // console.log(a);
 // console.log(A);
 
-//Identifiers,Statements(Start with character,camel Notation,_$,0-9),(ends with ;).
+//Identifiers,Statements(Start with character,camel Notation,_$,0-9),(ends with ;)..........
 // let firstName = 'Abbas';
 // let element = document.getElementById('root');
 // element.innerHTML = firstName;
@@ -23,7 +26,7 @@ multi line comments
 // element.style.display='none';
 // console.log(element);
 
-// scope of var and let
+// scope of var and let...........
 // let c=10;
 
 // function hi(){
@@ -37,7 +40,7 @@ multi line comments
 // }
 // hi();
 
-// datatypes(number(.NaN. ), string,boolean,null,undefinded, (array,function,object)=>object ) (typeof).
+// datatypes(number(.NaN. ), string,boolean,null,undefinded, (array,function,object)=>object ) (typeof)........
 // let a = 'Abbas';
 // let b = 10;
 // let h = 10.5;
@@ -51,7 +54,7 @@ multi line comments
 // console.log(typeof(d));
 // console.log(typeof(f));
 
-// Expressions(2*2,2+2).
+// Expressions(2*2,2+2).........
 // let a='a';
 // let b=10;
 // console.log(a/b);
