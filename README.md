@@ -5,6 +5,7 @@ This is the very basic course of Javascript in which I covered almost all topics
 Swapping variable's values:</br>
 let a=10;</br>
 let b=20;</br>
+Using only one variable like c</br>
 Output should look like: </br>
 console.log(a); // => 20 </br>
 console.log(b); // => 10 </br>
