@@ -16,6 +16,19 @@ Output should look like: </br>
 Print a label before each result i.e area of circle , circumference of circle </br>
 console.log(circleCircum); // => 62.8 </br>
 console.log(circleArea); // => 314 </br>
+# Exercise 2.1
+Write program for Pythagoras Theorem using Math().</br>
+Find the Value of hypotenuse</br>
+# Exercise 2.2
+Write program for Einstein's Theory of Relativity using Math().</br>
+Find the Value of Energy</br>
+i.e E=mc^2</br>
+# Exercise 2.3
+Calculate Mass of earth using Math().</br>
+# Exercise 2.4
+Write program to find (a+b)^2 using Math().</br>
+# Exercise 2.5
+Write program to find (a+b)(a-b) using Math().</br>
 # Exercise 3
 Write a function that takes two numbers and return the maximum of the two.
 # Exercise 4
