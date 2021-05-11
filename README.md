@@ -73,3 +73,32 @@ Second Task:</br>
     
 # Exercise 13
 I want you to create this function, showPrimes(limit), that takes a limit, and shows all the prime numbers up to this limit. So here are the prime numbers that we have, up to 20, we got 2, 3, 5, 7 and so on.
+
+# Exercise 14
+I want you to write a logic which shows us the desired output for a given array.<br>
+Example below show a sample output.<br>
+const arr = [1, 1, 2, 3, 5];<br>
+output =><br>
+A - 1<br>
+A - 1<br>
+B - 2<br>
+A - 3<br>
+B - 5<br>
+if the number change the letter also change.<br>
+Here is your task<br>
+const arr = [1, 2, 2, 3, 4, 6, 6];<br>
+your output should be like below<br>
+output =><br>
+A - 1<br>
+B - 2<br>
+B - 2<br>
+A - 3<br>
+B - 4<br>
+A - 6<br>
+A - 6<br>
+
+
+
+
+
+
