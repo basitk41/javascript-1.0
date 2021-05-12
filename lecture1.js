@@ -6,7 +6,7 @@
 // element.innerHTML = "Hi";
 // element.className = "divClass";
 
-// for node type commond node filename.js and enter
+// for node type command node filename.js and enter
 
 //Comments(// ,/**/)........
 // signle line comment
