@@ -101,7 +101,10 @@ A - 6<br>
 I want you to create a function which remove duplication from an array and make it unique.<br />
 For example: const arr = [1,2,2,3,3,3,4,4,5,6,6];<br>
 result:[1,2,3,4,5,6];<br>
-
+# Exercise 16
+I want you to merge arrays, which is inside an object<br>
+For example: const obj = { 1:[1,2,3],2:[4,5,6],3:[7,8,9]}<br>
+output should be: [1,2,3,4,5,6,7,8,9].<br>
 
 
 
