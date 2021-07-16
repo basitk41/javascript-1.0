@@ -105,7 +105,18 @@ result:[1,2,3,4,5,6];<br>
 I want you to merge arrays, which is inside an object<br>
 For example: const obj = { 1:[1,2,3],2:[4,5,6],3:[7,8,9]}<br>
 output should be: [1,2,3,4,5,6,7,8,9].<br>
-
-
-
-
+# Exercise 17
+In this exercise you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.<br>
+filter_list([1,2,'a','b']) ==> [1,2]<br>
+filter_list([1,'a','b',0,15]) ==> [1,0,15]<br>
+filter_list([1,2,'aasf','1','123',123]) ==> [1,2,123]<br>
+# Exercise 18
+In this exercise, you are asked to square every digit of a number and concatenate them.<br>
+For example, if we run 9119 through the function, 811181 will come out, because 92 is 81 and 12 is 1.<br>
+Note: The function accepts an integer and returns an integer<br>
+# Exercise 19
+Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition.<br>
+The binary number returned should be a string.<br>
+Examples:<br>
+add_binary(1, 1) == "10" (1 + 1 = 2 in decimal or 10 in binary)<br>
+add_binary(5, 9) == "1110" (5 + 9 = 14 in decimal or 1110 in binary)<br>
