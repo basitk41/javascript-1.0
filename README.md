@@ -135,3 +135,14 @@ Examples<br>
    942  -->  9 + 4 + 2 = 15  -->  1 + 5 = 6<br>
 132189  -->  1 + 3 + 2 + 1 + 8 + 9 = 24  -->  2 + 4 = 6<br>
 493193  -->  4 + 9 + 3 + 1 + 9 + 3 = 29  -->  2 + 9 = 11  -->  1 + 1 = 2<br>
+# Exercise 22
+Given an integral number, determine if it's a square number:<br>
+In mathematics, a square number or perfect square is an integer that is the square of an integer; in other words, it is the product of some integer with itself.<br>
+The tests will always use some integral number, so don't worry about that in dynamic typed languages.<br>
+Examples<br>
+-1  =>  false<br>
+ 0  =>  true<br>
+ 3  =>  false<br>
+ 4  =>  true<br>
+25  =>  true<br>
+26  =>  false
