@@ -120,3 +120,11 @@ The binary number returned should be a string.<br>
 Examples:<br>
 add_binary(1, 1) == "10" (1 + 1 = 2 in decimal or 10 in binary)<br>
 add_binary(5, 9) == "1110" (5 + 9 = 14 in decimal or 1110 in binary)<br>
+# Exercise 20
+Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.<br>
+Examples input/output:<br>
+XO("ooxx") => true<br>
+XO("xooxx") => false<br>
+XO("ooxXm") => true<br>
+XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true<br>
+XO("zzoo") => false<br>
