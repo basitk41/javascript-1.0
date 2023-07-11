@@ -51,14 +51,14 @@
 // let a = "10.50239301232";
 // console.log(parseInt(a));
 
-// //float
+// float
 // console.log(parseFloat(a));
 // console.log(parseFloat(a).toFixed(2));
 // console.log(Math.pow(a, 2));
 // console.log(Math.floor(Math.pow(a, 3)));
 // console.log(Math.ceil(Math.pow(a, 3)));
 
-// //rolling dice
+// rolling dice
 // console.log(Math.ceil(Math.random() * 6));
 // console.log(Math.ceil(Math.random() * 6));
 // console.log(Math.ceil(Math.random() * 6));
